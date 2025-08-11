@@ -1,5 +1,7 @@
 # truss_PCB
 
+_Archived: Please see https://github.com/practable/truss for any future updates_
+
 
 
 ![image](https://github.com/user-attachments/assets/cb8cb47f-309d-4fff-b717-545b298e2cdf)
